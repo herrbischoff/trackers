@@ -3,6 +3,7 @@
 
 api.drift.com
 api.reactandshare.com
+api.revenuecat.com
 chat.api.drift.com
 customer.api.drift.com
 data.reactandshare.com
@@ -10,4 +11,7 @@ drift.com
 enrichment.api.drift.com
 live.api.drift.com
 reactandshare.com
+s-adobeanalytics.vice.com
+sharethrough.adnxs.com
+sourcepoint.mgr.consensu.org
 targeting.api.drift.com
