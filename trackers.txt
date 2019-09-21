@@ -1,0 +1,13 @@
+# Manually Spotted Trackers and Other Nuisances
+# https://github.com/herrbischoff/trackers
+
+api.drift.com
+api.reactandshare.com
+chat.api.drift.com
+customer.api.drift.com
+data.reactandshare.com
+drift.com
+enrichment.api.drift.com
+live.api.drift.com
+reactandshare.com
+targeting.api.drift.com
