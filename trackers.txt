@@ -9,9 +9,14 @@ customer.api.drift.com
 data.reactandshare.com
 drift.com
 enrichment.api.drift.com
+in.hotjar.com
+js.driftt.com
 live.api.drift.com
 reactandshare.com
 s-adobeanalytics.vice.com
+script.hotjar.com
 sharethrough.adnxs.com
 sourcepoint.mgr.consensu.org
+static.hotjar.com
 targeting.api.drift.com
+vars.hotjar.com
