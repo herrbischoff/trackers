@@ -10,10 +10,13 @@ cdn.cookielaw.org
 chat.api.drift.com
 code.highcharts.com
 commsvc.geo.de
+convertkit.com
 customer.api.drift.com
 data.reactandshare.com
 drift.com
 enrichment.api.drift.com
+f.convertkit.com
+getpushmonkey.com
 googleadapis.l.google.com
 in.hotjar.com
 ip-s.nuggad.net
