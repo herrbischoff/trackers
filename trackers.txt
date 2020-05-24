@@ -4,7 +4,6 @@
 api.drift.com
 api.reactandshare.com
 api.revenuecat.com
-assets.bwbx.io
 b0e8.com
 cdn.b0e8.com
 cdn.conversant.mgr.consensu.org
