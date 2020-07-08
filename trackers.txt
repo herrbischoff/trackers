@@ -38,6 +38,7 @@ js.driftt.com
 js.hubspotfeedback.com
 js.usemessages.com
 live.api.drift.com
+luyten-98c.com
 matomo.workaround.org
 message.sp-prod.net
 mms.sp-prod.net
@@ -55,6 +56,7 @@ smetrics.washingtonpost.com
 sourcepoint.mgr.consensu.org
 static.addtoany.com
 static.hotjar.com
+static.luyten-98c.com
 sync.sxp.smartclip.net
 targeting.api.drift.com
 tdsjsext3.com
