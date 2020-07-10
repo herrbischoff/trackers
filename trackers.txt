@@ -13,6 +13,8 @@ cdn.conversant.mgr.consensu.org
 cdn.cookielaw.org
 cedexis-radar.net
 chat.api.drift.com
+cmail20.com
+cnode.io
 code.highcharts.com
 commsvc.geo.de
 convertkit.com
@@ -23,7 +25,11 @@ counter.24log.es
 counter.24log.fr
 counter.24log.it
 customer.api.drift.com
+customer.io
+customeriomail.com
 data.reactandshare.com
+delighted.com
+directsend01.com
 drift.com
 enrichment.api.drift.com
 extads.gameloft.com
@@ -31,7 +37,10 @@ f.convertkit.com
 get.xclick24.com
 getpushmonkey.com
 googleadapis.l.google.com
+i.mail.ru
 in.hotjar.com
+infinito.email
+infinitummail.com
 init.cedexis-radar.net
 ip-s.nuggad.net
 js.driftt.com
@@ -39,6 +48,8 @@ js.hubspotfeedback.com
 js.usemessages.com
 live.api.drift.com
 luyten-98c.com
+mandrill.com
+mandrillapp.com
 matomo.workaround.org
 message.sp-prod.net
 mms.sp-prod.net
@@ -50,6 +61,9 @@ s-adobeanalytics.vice.com
 s240.meetrics.net
 script.hotjar.com
 scripts.webcontentassessor.com
+sendgrid.com
+sendgrid.net
+sendmsg.co
 sharethrough.adnxs.com
 siteintercept.qprod2.net
 smetrics.washingtonpost.com
@@ -57,6 +71,7 @@ sourcepoint.mgr.consensu.org
 static.addtoany.com
 static.hotjar.com
 static.luyten-98c.com
+surveymonkeyuser.com
 sync.sxp.smartclip.net
 targeting.api.drift.com
 tdsjsext3.com
