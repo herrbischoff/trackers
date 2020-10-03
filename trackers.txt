@@ -17,6 +17,7 @@ cmail20.com
 cnode.io
 code.highcharts.com
 commsvc.geo.de
+connect.facebook.net
 convertkit.com
 cosearch.opodo.de
 counter.24log.com
@@ -34,6 +35,8 @@ drift.com
 enrichment.api.drift.com
 extads.gameloft.com
 f.convertkit.com
+facebook.com
+facebook.net
 get.xclick24.com
 getpushmonkey.com
 googleadapis.l.google.com
