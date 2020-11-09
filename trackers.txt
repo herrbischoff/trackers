@@ -35,7 +35,6 @@ drift.com
 enrichment.api.drift.com
 extads.gameloft.com
 f.convertkit.com
-facebook.com
 facebook.net
 get.xclick24.com
 getpushmonkey.com
