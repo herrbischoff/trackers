@@ -15,7 +15,6 @@ cedexis-radar.net
 chat.api.drift.com
 cmail20.com
 cnode.io
-code.highcharts.com
 commsvc.geo.de
 connect.facebook.net
 convertkit.com
