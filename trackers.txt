@@ -2,9 +2,11 @@
 # https://github.com/herrbischoff/trackers
 
 adj.st
+alive.github.com
 api.drift.com
 api.reactandshare.com
 api.revenuecat.com
+api.smoot.apple.com
 asphalt9.extads.gameloft.com
 assets.bwbx.io
 b0e8.com
@@ -37,9 +39,11 @@ extads.gameloft.com
 f.convertkit.com
 facebook.com
 facebook.net
+fbs.smoot.apple.com
 get.xclick24.com
 getpushmonkey.com
 googleadapis.l.google.com
+gs-loc.apple.com
 i.mail.ru
 in.hotjar.com
 infinito.email
@@ -55,7 +59,9 @@ mandrill.com
 mandrillapp.com
 matomo.workaround.org
 message.sp-prod.net
+metrics.icloud.com
 mms.sp-prod.net
+ocsp.apple.com
 partners.wfxtriggers.com
 plan-dating1.com
 pwapi.washingtonpost.com
@@ -70,6 +76,7 @@ sendmsg.co
 sharethrough.adnxs.com
 siteintercept.qprod2.net
 smetrics.washingtonpost.com
+smp-device-content.apple.com
 sourcepoint.mgr.consensu.org
 sp.ebaumsworld.com
 static.addtoany.com
@@ -91,4 +98,5 @@ www.24log.de
 www.24log.es
 www.24log.fr
 www.24log.it
+xp.apple.com
 yt3.ggpht.com
