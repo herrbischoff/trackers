@@ -16,6 +16,11 @@ at this point you don't, maybe it's time to reconsider your life choices and
 get help. There are people who will support your decision and life is better on 
 the other side.
 
+The latest addition being a telemetry list extracted directly from local 
+networks that monitor excessive requests to certain domains. Those are almost 
+always telemetry services ran by vendors. If you just want to use those and 
+skip the more aggressive approach, feel free to do so.
+
 ## Raw URLs for Direct Import:
 
 ### Trackers
@@ -23,6 +28,9 @@ the other side.
 
 ### Domains
 <https://raw.githubusercontent.com/herrbischoff/trackers/master/domains.txt>
+
+### Telemetry
+<https://raw.githubusercontent.com/herrbischoff/trackers/master/telemetry.txt>
 
 ## Women Empowerment in Zanzibar
 

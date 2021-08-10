@@ -1,0 +1,24 @@
+# Most aggressive telemetry domains spotted
+# https://github.com/herrbischoff/trackers
+
+# Apple
+#
+api.smoot.apple.com
+cstat.apple.com
+fbs.smoot.apple.com
+gs-loc.apple.com
+metrics.icloud.com
+smp-device-content.apple.com
+xp.apple.com
+
+# Disney
+#
+*.cws.conviva.com
+
+# DuckDuckGo
+#
+improving.duckduckgo.com
+
+# Plex
+#
+analytics.plex.tv
