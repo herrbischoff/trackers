@@ -189,7 +189,6 @@ i.mail.ru
 ibm.com
 in.hotjar.com
 inboundwriter.com
-inbox.google.com
 infinito.email
 infinitummail.com
 infonline.de
